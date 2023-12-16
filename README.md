@@ -6,7 +6,7 @@ I'm Monica Cruz, a passionate professional in Data Analytics and Artificial Inte
 
 ## 🔭 Currently Working On
 - Exploring new techniques in data analysis and machine learning.
-- Contributing to open-source projects focused on decreasing the gap in racial equity and addressing unconscious or conscious biases related to black people.
+- CContribute to open source projects focused on closing the racial equity gap around the world by eliminating unconscious or conscious biases related to race in data and algorithms.
 
 ## 🌱 Currently Learning
 - Phyton for Data Science.
